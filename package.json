@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Cleaver Deployment",
   "main": "app.js",
+  "scripts": { "start" : "node app.js" },
   "repository": "git@github.com:ashokgelal/cleaver-setup-nodejs.git",
   "author": "Ashok Gelal <ashokgelal@gmail.com>",
   "license": "MIT",
